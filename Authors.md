@@ -1,6 +1,6 @@
 # The teams 
 
-## Team Name 1
+## Team Name N : Dragons Custody Grudge
 Team leader: Olga Shablykina
 
 * Junior1: Benjamin Caissial
