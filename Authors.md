@@ -11,7 +11,7 @@ Team leader: Austin TANGBAN
 Team leader: Zsofia Hauk
 
 * Junior1: Anastasiia Goppen
-* Junior2: Prenom Nom
+* Junior2: Binesh Arakkal Remesh
 * Junior3: Ivaylo Mitov
 
 ## Forks4Soup
