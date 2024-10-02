@@ -1,8 +1,8 @@
 # The teams 
 
-## Team Name 1
+## The Modest Gitters
 Team leader: Zsofia Hauk
 
-* Junion1: Prenom Nom
+* Junior1: Anastasiia Goppen
 * Junior2: Prenom Nom
 * Junior3: Prenom Nom
