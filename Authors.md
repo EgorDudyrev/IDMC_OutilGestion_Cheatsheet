@@ -4,5 +4,5 @@
 Team leader: Olga Shablykina
 
 * Junior1: Benjamin
-* Junior2: Joely
+* Junior2: Joely Klock
 * Junior3: Melvyn Corvo
