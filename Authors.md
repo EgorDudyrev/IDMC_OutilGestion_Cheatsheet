@@ -1,9 +1,8 @@
-Enseignant: Egor DUDYREV
-
 # The teams 
 
-## Team Name 1
-Team leader: ...
+## Harlem witches
+Team leader: Austin TANGBAN
 
 * Junion1: Prenom Nom
-* Junior2: Prenom Nom...
+* Member2: Lucie DIGOIN
+
