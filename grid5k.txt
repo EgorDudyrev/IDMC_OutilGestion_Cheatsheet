@@ -1,0 +1,15 @@
+'''$ How it works
+
+Two use cases of the disk reservation are possible:
+
+Long run reservations of disks only (job reserving no host, i.e. no processing power)
+    disk-only reservations do not have to fit in the day vs. night&week-end host reservation policy, and can last up to many days (see Grid5000:UsagePolicy). The reserved disks can then be used by regular host jobs during the period of time of the disk reservation. In this use case, the goal is to get more persistence for the local storage of nodes, e.g. avoid the need to reformat disks and reimport dataset in each regular host job. Those long run jobs must use the noop OAR job type.
+Regular jobs reserving both host and disks
+    In this use case, the goal is to get access to the reservable disks within the experiment, just as if the disk were not to reserve separately.
+
+In both cases, making use of the reserved disks requires to gain the root privileges, since disks are provided as bare metal hardware to be partitioned, formated, mounted, filled with no restriction but by the experimenter. As a result, the experimenter can use the reserved disk:
+
+    either in a non-deploy job, in the standard environment but after enabling sudo with the sudo-g5k command ;
+    or in a deploy job, in a kadeployed environment (use the deploy OAR job type, then kadeploy).
+
+Technically speaking, when a deploy job starts, or whenever sudo-g5k is called in a non-deploy job, the reserved disks stay available (shown by lsblk) while the other disks are disabled and disappear. '''
