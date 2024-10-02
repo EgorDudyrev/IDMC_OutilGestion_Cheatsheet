@@ -1,7 +1,8 @@
 # The teams 
 
-## Team Name 1
-Team leader: ...
+## Forks4Soup
+Team leader: Murad Murstafayev
 
-* Junion1: Prenom Nom
-* Junior2: Prenom Nom...
+* Junion1: Zahra Sharifi
+* Junior2: Arthur Pedrini
+* Junior3: Elise Soenen
