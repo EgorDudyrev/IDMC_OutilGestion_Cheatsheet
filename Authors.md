@@ -1,7 +1,8 @@
 # The teams 
 
 ## Team Name 1
-Team leader: ...
+Team leader: Olga Shablykina
 
-* Junion1: Prenom Nom
-* Junior2: Prenom Nom...
+* Junior1: Benjamin
+* Junior2: Joely
+* Junior3: Melvyn
